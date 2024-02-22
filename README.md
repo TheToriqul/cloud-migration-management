@@ -9,7 +9,7 @@ This repository contains documentation and resources related to the cloud migrat
 The goal of the project was to leverage AWS cloud services to improve the performance, scalability, and reliability of the web application hosted by Alishan Bazar. The migration process involved several stages, including:
 
 - **Assessment:** Detailed assessment of the existing infrastructure to identify migration requirements and dependencies.
-- **Data Migration:** Transfer of website files, databases, and other data from the current hosting provider to AWS.
+- **Data Migration:** Transfer of website files, databases, and other data from the current web hosting provider to AWS.
 - **Application Setup:** Configuration of web servers, databases, and application dependencies on AWS.
 - **Networking Connectivity:** Configuration of networking components, including VPCs, subnets, and DNS settings.
 - **Security and Compliance:** Implementation of security measures and compliance standards to protect the web application and data.
@@ -60,3 +60,8 @@ Contributions to this project are welcome! Please refer to the [Contribution Gui
 
 Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in this project.
 
+---
+
+## Important Message
+
+**Note:** Due to company policy and confidentiality agreements, I am unable to disclose the specific code details stored in my personal repository. I understand that transparency and collaboration are essential in open-source projects, and I appreciate your interest in contributing to this project. While I cannot provide access to the codebase directly, I welcome any feedback, suggestions, or questions you may have regarding the project's goals, architecture, or best practices. Thank you for your understanding and continued support.
